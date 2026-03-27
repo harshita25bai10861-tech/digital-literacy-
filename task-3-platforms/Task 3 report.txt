@@ -1,0 +1,5 @@
+For this task, I used Google Forms and Google Sheets to create a Digital Literacy Awareness Quiz. Google Forms allowed me to design an interactive quiz with 5 questions, including multiple choice, checkboxes, and short answer types. The questions focused on password security, safe online practices, and understanding digital literacy. After creating the form, I linked it to Google Sheets to automatically collect and organize responses, making it easy to view and analyze the results.
+
+Through this activity, I practiced designing online surveys, formatting questions for clarity, and managing response data. I also learned how to share forms via links and capture screenshots of the form and response sheets for documentation.
+
+These tools are very helpful academically because they allow me to create surveys for research projects, collect feedback efficiently, and analyze data without manual effort. Using Google Forms and Sheets improves my digital literacy, data management skills, and understanding of online safety, all of which are important for both classroom assignments and independent research.
